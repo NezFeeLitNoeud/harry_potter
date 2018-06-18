@@ -1,0 +1,27 @@
+body {
+background-image: url(http://hello.elisavanhoucke.fr/data/blog/articles/fond-ecran-sept17-patronus/patronus-desktop.png);
+background-repeat: no-repeat;
+background-color: #25192b;
+
+}
+h1 {
+	font-size: 100px;
+	color: white;
+	text-align: center;
+}
+
+#table {
+	text-align: center;
+	margin: 0 auto;
+	width: 50%;
+}
+
+ #titre{ 
+ 	border: 2px white solid;
+  }
+
+  .alert {
+  	text-align: center;
+  	margin: 0 auto;
+  	width: 50%;
+  }
